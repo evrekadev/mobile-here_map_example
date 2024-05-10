@@ -2,7 +2,6 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_svg/svg.dart';
 import 'package:geolocator/geolocator.dart' as geolocator;
 import 'package:here_maps_example/helpers/evreka_here_location_provider.dart';
 import 'package:here_maps_example/helpers/evreka_here_route_calculator.dart';
